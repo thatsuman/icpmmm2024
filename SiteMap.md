@@ -1,0 +1,22 @@
+## icpmmm2024 Site Map
+
+- Home
+  - Hero Section (includes Event Title, Organizing authority, Dates, Venue)
+  - About University and Department
+  - Invitation
+  - Pricing Plans
+  - Venue Location and Contact
+- Abstracts
+  - Call for Abstracts (Topics)
+  - Abstract submission dates
+  - Abstract Submission
+- Call for Papers
+  - Guidelines for Authors
+  - Publication Opportunity
+  - Key dates
+- Commitees (On Hold)
+- About Us
+  - University dept
+  - About Kolkata city
+  - Venue
+- Contact Us
