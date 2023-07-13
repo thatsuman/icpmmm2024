@@ -2,9 +2,9 @@
 
 ### Conference Title: `International Conference on Processing of Minerals, Metals and Materials: Beyond Tomorrow`
 
-### Dates: `21 to 23rd February, 2024`
-
 ### Organizing authority: `Organized by Department of Metallurgical Engineering, Kazi Nazrul University, Asansol, India In Association with National Institute of Technology, Durgapur, India and National Metallurgical Laboratory, Jamshedpur, India`
+
+### Dates: `21 to 23rd February, 2024`
 
 ### Venue: `Fairfield by Marriot, Kolkata, West Bengal, India`
 
