@@ -1,9 +1,16 @@
-## About the Conference
+## Hero Section
 
-- Join the prestigious International Conference on Processing of Minerals, Metals, and Materials in Kolkata, organized by Department of Metallurgical Engineering, Kazi Nazrul University, Asansol, India In Association with
-  National Institute of Technology, Durgapur, India and National Metallurgical Laboratory, Jamshedpur, India.
+### Conference Title: `International Conference on Processing of Minerals, Metals and Materials: Beyond Tomorrow`
 
-  Explore the latest advancements in metallurgy engineering, minerals processing, and materials technology. Connect with experts, present your research, and network with professionals worldwide.
+### Dates: `21 to 23rd February, 2024`
+
+### Organizing authority: `Organized by Department of Metallurgical Engineering, Kazi Nazrul University, Asansol, India In Association with National Institute of Technology, Durgapur, India and National Metallurgical Laboratory, Jamshedpur, India`
+
+### Venue: `Fairfield by Marriot, Kolkata, West Bengal, India`
+
+## Quick Intro about the conference
+
+- Welcome to the International Conference on Processing of Minerals, Metals, and Materials - Kolkata 2023! Join us for this esteemed event organized by Kazi Nazrul University Metallurgy Engineering Department, where researchers, industry experts, and professionals converge to explore the latest advancements in metallurgy engineering and the processing of minerals, metals, and materials. Don't miss the opportunity to showcase your research papers, network with global experts, and be part of shaping the future of this field. Register now and secure your place at this premier conference.
 
 ## About University and Deaprtment
 
@@ -26,7 +33,7 @@
   internship, and research projects in various reputed organizations like IISCO, Tata Hitachi, NML, RINL,
   and nearby iron and steel plants.
 
-  - ![Kazi Nazrul University](./assets/img/knu.webp)
+  ![Kazi Nazrul University](./assets/img/knu.webp)
 
 ## Invitation
 
@@ -104,3 +111,16 @@
   organisations.
 
 - ![Invitation](./assets/img/invitation.webp)
+
+## Registration Plans
+
+- Delegates are requested to register and pay online. Registration fees
+  can be paid by electronic fund transfer or through Demand Draft in
+  favour of “ICPMMM2024” payable at Kolkata
+
+| Category             | INR  | USD |
+| :------------------- | :--- | :-- |
+| Academics            | 8000 | 450 |
+| Industry and R&D lab | 9000 | 600 |
+| Students             | 4000 | 300 |
+| Accompany/Spouse     | 4000 | 300 |
