@@ -9,7 +9,7 @@
     - Call for Papers
     - Call for Abstracts
     - Guidelines for Authors
-    - Opportunity
+    - Publication Opportunity
     - Key dates
   - Registration
   - Committees
@@ -36,6 +36,7 @@
 - ### About University and Department
 - ### Invitation
 - ### Registration Plans
+- ### Sponsors
 - ### Venue Location and Contact details
 - ### Footer section
   - Quick Links
@@ -46,6 +47,7 @@
   - Broad Theme
   - Sub-Theme of Conference
 - Call for Abstracts
+  - Downloadable abstract template
   - Abstract submission dates
   - Abstract submission email
 - Guidelines for Authors
