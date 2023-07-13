@@ -124,3 +124,27 @@
 | Industry and R&D lab | 9000 | 600 |
 | Students             | 4000 | 300 |
 | Accompany/Spouse     | 4000 | 300 |
+
+## Sponsors
+
+- ![Sail Logo](./assets/img/sail_logo.webp)
+
+## Venue Location and Contact details
+
+- Venue
+
+  - Name: Fairfield by Marriot, Kolkata
+  - Address: Cb 218, CB Block(Newtown), Action Area 1C, Newtown, Kolkata, West Bengal 700156
+
+- Contact
+  - Conference Chairman: Prof. Projjal Basu
+  - KAZI NAZRUL UNIVERSITY,
+    Asansol-713340, West Bengal,
+    India
+  - Mobile: +91 7406409273
+  - Email: icpmmm2024@gmail.com /
+    metallurgy.projjal@knu.ac.in
+
+## Page visitor counter
+
+## Footer section
