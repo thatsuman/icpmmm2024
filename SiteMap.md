@@ -1,8 +1,8 @@
-## icpmmm2024 Site Map
+# icpmmm2024 Site Map
 
 ## Home Page
 
-- ### Navbar section
+- ### Header section
 
   - Home
   - Abstracts and Papers
@@ -33,12 +33,21 @@
   - Venue
 
 - ### Quick Intro about the conference
+
 - ### About University and Department
-- ### Invitation
-- ### Registration Plans
+
+- ### Special Attraction
+
+- ### Souvenir
+
+- ### Registration Fees
+
 - ### Sponsors
+
 - ### Venue Location and Contact details
+
 - ### Footer section
+
   - Quick Links
 
 ## Abstracts and Papers Page
