@@ -12,6 +12,8 @@
 
 - Welcome to the International Conference on Processing of Minerals, Metals, and Materials - Kolkata 2023! Join us for this esteemed event organized by Kazi Nazrul University Metallurgy Engineering Department, where researchers, industry experts, and professionals converge to explore the latest advancements in metallurgy engineering and the processing of minerals, metals, and materials. Don't miss the opportunity to showcase your research papers, network with global experts, and be part of shaping the future of this field. Register now and secure your place at this premier conference.
 
+- ![Invitation](./assets/img/invitation.webp)
+
 ## About University and Deaprtment
 
 - Kazi Nazrul University (KNU), a nascent university in the heart of industrial belt in West Bengal, runs on
@@ -35,84 +37,23 @@
 
   ![Kazi Nazrul University](./assets/img/knu.webp)
 
-## Invitation
+## Special Attraction
 
-- At the onset, we want
-  to introduce ourselves
-  as a fledgling
-  Department of
-  Metallurgical
-  Engineering of Kazi
-  Nazrul University, a
-  state aided university
-  in the eastern state of
-  West Bengal, India. We
-  are running AICTE
-  approved UG courses
-  as well as doctoral
-  programs duly
-  supported by required
-  infrastructures, well
-  qualified faculty
-  members, close
-  collaborations with
-  industries and research
-  labs, and external
-  fundings. Our faculties
-  are actively engaged in
-  teaching and research
-  and we strive to keep
-  pace with the fast
-  changing world of
-  Minerals, Metals, and
-  Materials through our
-  research programs. various
-  fields of metallurgical
-  activities across 56 chapters.
-  Membership requirements
-  are stringent to maintain
-  the highest
-  professional
-  standards. The
-  scope of the Institute
-  activities include mineral
-  beneficiation, extraction,
-  fabrication, heat treatment,
-  finishing as well as
-  practical and theoretical
-  aspects of metallurgy of all
-  ferrous and non-ferrous
-  metals and alloys.
-  Ceramics and other
-  disciplines and
-  technologies allied to
-  metallurgical problems
-  also come underthe scope
-  of the Institute.
-  The activities of the Institute
-  include organizing national
-  and international technical
-  conferences and
-  programmes, research
-  activities, publications,
-  conducting qualifying
-  examinations etc.The
-  Institute has grown into a
-  reputed Institution devoted
-  to promotion and
-  advancement in the study,
-  practice and research of
-  Metallurgical Science and
-  Technology.The KAZI
-  NAZRUL UNIVERSITY is
-  now recognised throughout
-  the world as one of the
-  premier metallurgical
-  organisations.
+We would like to come forward to help with Dokra Metal Craft which is situated in Bikna
+village in Bankura. We want that people take more of it in future and not to push their
+traditional heritage towards extinction. We have seen that most of the people in Bikna village
+depend on this for their livelihood and both of their sales and profit margins have decreased a
+lot. So, It should be the moral responsibility of every human being to preserve the heritage.
 
-- ![Invitation](./assets/img/invitation.webp)
+- Insert Dokra Metal Craft Image
 
-## Registration Plans
+## Souvenir
+
+During ICPMMM2024, a souvenir will be released by the Chief Patron on 20th March, 2024. The Souvenir will contain messages from
+Govt.functionaries and Eminent professionals, special articles, ATM event details, details about various committees, awards,
+sponsors/supporters and advertisements from various industries, organizations from India and abroad. The soft copy of the souvenir will be provided to all the delegates attending the event.Limited high qualityhard copies will be printed for distribution to Govt. agencies, Industries, R&D labs and Academic Institutions.
+
+## Registration Fees
 
 - Delegates are requested to register and pay online. Registration fees
   can be paid by electronic fund transfer or through Demand Draft in
