@@ -1,31 +1,31 @@
 ---
 type TPlans = { name: string; usd: string; inr: string };
-const plans = [
+const plans: TPlans[] = [
   {
     name: 'Academics',
-    usr: '450',
+    usd: '450',
     inr: '8000',
   },
   {
     name: 'Industry and R&D Lab',
-    usr: '600',
+    usd: '600',
     inr: '9000',
   },
   {
     name: 'Students',
-    usr: '300',
+    usd: '300',
     inr: '4000',
   },
   {
     name: 'Accompany / Spouse',
-    usr: '300',
+    usd: '300',
     inr: '4000',
   },
 ];
 ---
 
 <section class='text-gray-600 overflow-hidden'>
-  <div class='container px-5 py-24 mx-auto'>
+  <div class='max-w-7xl container px-5 py-24 mx-auto'>
     <div class='flex flex-col text-center w-full mb-20'>
       <h1 class='sm:text-4xl text-3xl font-medium font-sans mb-2 text-gray-900'>
         Registation Fees
@@ -38,15 +38,15 @@ const plans = [
       {
         plans.map((plan) => (
           <div class='p-4 xl:w-1/4 md:w-1/2 w-full'>
-            <div class='h-full p-6 rounded-lg border-2 border-gray-300 flex flex-col relative overflow-hidden'>
-              <h2 class='text tracking-widest font-sans mb-1 font-medium'>
+            <div class='h-full p-6 rounded-lg border-2 border-gray-500 flex flex-col relative overflow-hidden'>
+              <h2 class='text tracking-widest font-sans mb-1 font-medium text-gray-700'>
                 {plan.name}
               </h2>
-              <h1 class='text-3xl text-gray-900 pb-4 mb-4 border-b border-gray-200 leading-none'>
-                {plan.inr} INR
+              <h1 class='text-2xl text-gray-900 pb-4 mb-4 border-b border-gray-200 leading-none'>
+                {plan.inr} INR / {plan.usd} USD
               </h1>
-              <button class='flex items-center mt-auto text-white bg-gray-400 border-0 py-2 px-4 w-full focus:outline-none hover:bg-gray-500 rounded'>
-                Button
+              <button class='flex items-center mt-auto text-white bg-orange-500 border-0 py-2 px-4 w-full focus:outline-none hover:bg-orange-600 rounded'>
+                Register
                 <div class='i-iconoir-arrow-right w-4 h-4 ml-auto' />
               </button>
             </div>
