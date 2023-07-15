@@ -1,13 +1,13 @@
 ---
-layout: "../layouts/Article.astro"
-title: "About Us"
+layout: '../layouts/Article.astro'
+title: 'About Us'
 ---
 
 ## About ICPMMM 2024
 
 We are delighted to present the International Conference on Processing of Minerals, Metals, and Materials in Kolkata, organized by the esteemed Kazi Nazrul University Metallurgy Engineering Department. This premier event serves as a dynamic platform for professionals, researchers, and industry leaders to converge and explore the latest advancements, cutting-edge research, and innovative solutions in the field of metallurgy engineering, minerals processing, and materials technology. Attendees will engage in insightful discussions on topics such as novel processing techniques, sustainable materials development, and emerging trends shaping the industry. With ample opportunities for research presentations, interactive sessions, and networking, this conference promises to foster collaborations and facilitate knowledge exchange among participants from around the globe. Furthermore, accepted papers will have the opportunity for publication in conference proceedings or special journal issues, ensuring wide dissemination of valuable research contributions. Join us at this corporate professional gathering to gain valuable insights, forge meaningful connections, and contribute to the advancement of the minerals, metals, and materials sector.
 
-- ![Invitation](public/assets/images/invitation.webp)
+- ![Invitation](/assets/images/invitation.webp)
 
 ## About Our University and Department
 
@@ -30,4 +30,4 @@ with various academic and research institutes, and industries. Students undertak
 internship, and research projects in various reputed organizations like IISCO, Tata Hitachi, NML, RINL,
 and nearby iron and steel plants.
 
-- ![KNU](public/assets/images/knu.webp)
+- ![KNU](/assets/images/knu.webp)
