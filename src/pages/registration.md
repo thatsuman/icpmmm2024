@@ -1,8 +1,8 @@
 ---
 layout: "../layouts/Article.astro"
-title: "Abstracts and Papers"
+title: "Registration"
 ---
 
-## Abstracts and Papers
+## Registration
 
 Coming Soon...
