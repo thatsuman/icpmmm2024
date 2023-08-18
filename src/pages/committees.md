@@ -1,6 +1,6 @@
 ---
-layout: "../layouts/Article.astro"
-title: "ICPMMM2024 Committees"
+layout: '../layouts/Article.astro'
+title: 'ICPMMM2024 Committees'
 ---
 
 # Committees for ICPMMM2024
@@ -77,23 +77,23 @@ title: "ICPMMM2024 Committees"
 
 ### Member
 
-- Dr. Arijit Sinha, Associate Professor, KNU
-- Dr. Chanchal Biswas, Assistant Professor, KNU
-- Dr. Gurudas Mandal, Assistant Professor, KNU
-- Mrs. Barnali Sengupta, Assistant Professor, KNU
+- Dr. Arijit Sinha, Associate Professor, Kazi Nazrul University
+- Dr. Chanchal Biswas, Assistant Professor, Kazi Nazrul University
+- Dr. Gurudas Mandal, Assistant Professor, Kazi Nazrul University
+- Mrs. Barnali Sengupta, Assistant Professor, Kazi Nazrul University
 
 ### Hospitality
 
-- Ms. Amrita Bhattacharya, KNU
-- Mr. Somnath Dutta, KNU
-- Mr. Sumit Dey, KNU
-- Mr. Sagir Khan, KNU
+- Ms. Amrita Bhattacharya, Kazi Nazrul University
+- Mr. Somnath Dutta, Kazi Nazrul University
+- Mr. Sumit Dey, Kazi Nazrul University
+- Mr. Sagir Khan, Kazi Nazrul University
 
 ### IT Support
 
-- Mr. Ashif Ahamed, KNU
-- Mr. Sourav Jana, KNU
-- Suman Mondal, Student, KNU
+- Mr. Ashif Ahamed, Kazi Nazrul University
+- Mr. Sourav Jana, Kazi Nazrul University
+- Suman Mondal, B.Tech (CSE) Student, Kazi Nazrul University
 
 ### Student Member
 
