@@ -42,4 +42,4 @@ title: 'Registration'
 
 ### [Google Form Link](https://docs.google.com/forms/d/1I_CkazyrMsuG8mRVAC3HyJ6LvN2ORfP5qnD5u4tpmFI/edit?chromeless=1)
 
-### Contact us for Registration Issues: [icpmmm2024@gmail.com](mailto:icpmmm2024@gmail.com)
+### Contact us for Registration related issues: [icpmmm2024@gmail.com](mailto:icpmmm2024@gmail.com)
