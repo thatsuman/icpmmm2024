@@ -30,4 +30,4 @@ with various academic and research institutes, and industries. Students undertak
 internship, and research projects in various reputed organizations like IISCO, Tata Hitachi, NML, RINL,
 and nearby iron and steel plants.
 
-- ![KNU](/assets/images/knu.webp)
+- ![KNU](/assets/images/knu1.webp)
