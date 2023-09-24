@@ -5,6 +5,7 @@ title: 'Downloads'
 
 # Downloads
 
-## Conference Brochure: [Download](/uploads/Brochure_IPCMMM2024.pdf)
-
-<!-- <h2><a href="/uploads/Brochure_IPCMMM2024.pdf" target="_blank">Download Brochure</a></h2> -->
+| Resource            | Link                                                   |
+| ------------------- | ------------------------------------------------------ |
+| Conference Brochure | [Download](/uploads/Brochure_IPCMMM2024.pdf)           |
+| Abstract Template   | [Download](/uploads/Abstract_Template_ICPMMM2024.docx) |
