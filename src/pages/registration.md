@@ -5,9 +5,15 @@ title: 'Registration'
 
 ## Registration details
 
-- Delegates are requested to register and pay online. Registration fees
-  can be paid by electronic fund transfer.
-  Please follow the steps below.
+Delegates are requested to register and pay online. Registration fees
+can be paid by electronic fund transfer.
+Please follow the steps below.
+
+- #### Note: Registration is mandatory for participating.
+
+- #### Note: For the participants unable to attend the conference at the venue due to unavoidable reasons, special online sessions for presentation will be arranged
+
+- #### Note: Save the Transaction ID and Payment receipt. May required for future use.
 
 ### Registration Deadline: 31st January, 2024
 
@@ -20,26 +26,20 @@ title: 'Registration'
 | Students             | 4000 | 150 |
 | Accompany/Spouse     | 4000 | 150 |
 
-### Note: Registration is mandatory for participating.
+## Step 1: Scan via any UPI (PhonePe, Google Pay, PayTM) App and Pay the required amount
 
-### Note: Save the Transaction ID and Payment receipt. May required for future use.
+<img src="/assets/images/updated_payment_qr_code.webp" alt="drawing" style="width:200px"/>
 
-## Step 1: Scan via any UPI (PhonePe, GPay, PayTM) App and Pay the required amount
+## OR, via Bank Transfer
 
-<img src="/assets/images/payment_qr_code.webp" alt="drawing" style="width:200px"/>
+### Account No: 50100489460550
 
-## OR Bank Transfer
+### Bank Name: HDFC
 
-### Account No. :50100489460550
+### IFSC Code: HDFC0000324
 
-### Bank Name :HDFC
+### Branch Name: ASANSOL
 
-### IFSC Code : HDFC0000324
-
-### Branch Name : ASANSOL
-
-## Step 2: Fill the Google Form below
-
-### [Google Form Link](https://docs.google.com/forms/d/1I_CkazyrMsuG8mRVAC3HyJ6LvN2ORfP5qnD5u4tpmFI/edit?chromeless=1)
+## Step 2: Fill this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfTLI7FJ0aLXlE4NXkPyYUgAPwo9rZiX9rN2HQztCP55IG6Jw/formResponse)
 
 ### Contact us for Registration related issues: [icpmmm2024@gmail.com](mailto:icpmmm2024@gmail.com)
