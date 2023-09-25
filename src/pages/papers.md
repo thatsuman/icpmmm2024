@@ -69,7 +69,7 @@ The paper should only be submitted by Email at
   The abstract should be prepared using
   template provided on the conference website.
 
-### Abstracts Template downlaod button
+### Abstracts Template <mark style="background-color:#F4E869;color: black;">[Download](/uploads/Abstract_Template_ICPMMM2024.docx)</mark>
 
 ### Abstract submission deadline
 
