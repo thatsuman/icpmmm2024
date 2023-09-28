@@ -138,7 +138,11 @@
     </div>
     <!-- Site Visit Counter -->
     <div class='flex justify-center items-center pt-12'>
-      <p>Website Visits: <span id='count'>Loading...</span></p>
+      <p>Website Visits: <span id='count'></span></p>
+<!-- hitwebcounter Code START -->
+<a href="https://www.hitwebcounter.com" target="_blank">
+<img src="https://hitwebcounter.com/counter/counter.php?page=9245239&style=0001&nbdigits=4&type=ip&initCount=30" title="Counter Widget" Alt="Visit counter For Websites"   border="0" /></a>   
+
     </div>
   </div>
   <div class='bg-gray-100'>
@@ -180,23 +184,9 @@
   </div>
 </footer>
 
-<script>
-  const countElement = document.getElementById('count');
 
-  incrementVisitsCount();
-
-  function incrementVisitsCount() {
-    let visits: number;
-
-    if (!localStorage.getItem('visits')) {
-      localStorage.setItem('visits', '30');
-    } else {
-      visits = +localStorage.getItem('visits')!;
-      const incrementedCount = visits + 1;
-
-      localStorage.setItem('visits', incrementedCount.toString());
-    }
-
-    countElement.innerText = localStorage.getItem('visits') || '0';
-  }
-</script>
+                                 
+                                    
+                                        
+                                          
+                            
