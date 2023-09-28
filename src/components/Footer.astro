@@ -136,6 +136,10 @@
         </nav>
       </div>
     </div>
+    <!-- Site Visit Counter -->
+    <div class='flex justify-center items-center pt-12'>
+      <p>Website Visits: <span id='count'>Loading...</span></p>
+    </div>
   </div>
   <div class='bg-gray-100'>
     <div
@@ -175,3 +179,24 @@
     </div>
   </div>
 </footer>
+
+<script>
+  const countElement = document.getElementById('count');
+
+  incrementVisitsCount();
+
+  function incrementVisitsCount() {
+    let visits: number;
+
+    if (!localStorage.getItem('visits')) {
+      localStorage.setItem('visits', '30');
+    } else {
+      visits = +localStorage.getItem('visits')!;
+      const incrementedCount = visits + 1;
+
+      localStorage.setItem('visits', incrementedCount.toString());
+    }
+
+    countElement.innerText = localStorage.getItem('visits') || '0';
+  }
+</script>
