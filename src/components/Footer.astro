@@ -137,48 +137,48 @@
       </div>
     </div>
     <!-- Site Visit Counter -->
-    <div>
-      <p>Website Visits: <span id='count'></span></p>
+    <div class='flex justify-center items-center pt-12'>
+      <p>Website Visits: <span id='count'>Loading...</span></p>
     </div>
   </div>
-</footer>
-<div class='bg-gray-100'>
-  <div
-    class='max-w-7xl container mx-auto py-4 px-5 flex flex-wrap flex-col sm:flex-row'
-  >
-    <p class='text-gray-500 text-sm text-center sm:text-left'>
-      © ICPMMM 2024 —
-      <a rel='noopener noreferrer' class='text-gray-600 ml-1' target='_blank'
-        >All Rights Reserved
-      </a>
-      <span>
-        | Site Maintained by <a
-          href='https://www.linkedin.com/in/thatsuman/'
-          class='text-gray-800 hover:text-gray-500'>Suman Mondal</a
-        ></span
-      >
-    </p>
-    <span
-      class='inline-flex sm:ml-auto sm:mt-0 mt-2 justify-center sm:justify-start'
+  <div class='bg-gray-100'>
+    <div
+      class='max-w-7xl container mx-auto py-4 px-5 flex flex-wrap flex-col sm:flex-row'
     >
-      <!-- <a
+      <p class='text-gray-500 text-sm text-center sm:text-left'>
+        © ICPMMM 2024 —
+        <a rel='noopener noreferrer' class='text-gray-600 ml-1' target='_blank'
+          >All Rights Reserved
+        </a>
+        <span>
+          | Site Maintained by <a
+            href='https://www.linkedin.com/in/thatsuman/'
+            class='text-gray-800 hover:text-gray-500'>Suman Mondal</a
+          ></span
+        >
+      </p>
+      <span
+        class='inline-flex sm:ml-auto sm:mt-0 mt-2 justify-center sm:justify-start'
+      >
+        <!-- <a
           href='https://github.com/thatsuman/icpmmm2024'
           class='ml-3 text-gray-500'
         >
           <div class='i-iconoir-github'></div>
         </a> -->
-      <a
-        href='https://www.linkedin.com/school/kazi-nazrul-university-asansol/'
-        class='ml-3 text-gray-500'
-      >
-        <div class='i-iconoir-linkedin'></div>
-      </a>
-      <a href='mailto:icpmmm2024@gmail.com' class='ml-3 text-gray-500'>
-        <div class='i-iconoir-mail'></div>
-      </a>
-    </span>
+        <a
+          href='https://www.linkedin.com/school/kazi-nazrul-university-asansol/'
+          class='ml-3 text-gray-500'
+        >
+          <div class='i-iconoir-linkedin'></div>
+        </a>
+        <a href='mailto:icpmmm2024@gmail.com' class='ml-3 text-gray-500'>
+          <div class='i-iconoir-mail'></div>
+        </a>
+      </span>
+    </div>
   </div>
-</div>
+</footer>
 
 <script>
   const countElement = document.getElementById('count');
@@ -189,10 +189,10 @@
     let visits: number;
 
     if (!localStorage.getItem('visits')) {
-      localStorage.setItem('visits', '1');
+      localStorage.setItem('visits', '10');
     } else {
       visits = +localStorage.getItem('visits')!;
-      const incrementedCount = visits + 1;
+      const incrementedCount = visits + 3;
 
       localStorage.setItem('visits', incrementedCount.toString());
     }
