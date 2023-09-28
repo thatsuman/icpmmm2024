@@ -189,10 +189,10 @@
     let visits: number;
 
     if (!localStorage.getItem('visits')) {
-      localStorage.setItem('visits', '10');
+      localStorage.setItem('visits', '30');
     } else {
       visits = +localStorage.getItem('visits')!;
-      const incrementedCount = visits + 3;
+      const incrementedCount = visits + 1;
 
       localStorage.setItem('visits', incrementedCount.toString());
     }
