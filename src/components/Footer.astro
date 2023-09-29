@@ -137,8 +137,17 @@
       </div>
     </div>
     <!-- Site Visit Counter -->
-    <div class='flex justify-center items-center pt-12'>
-      <p>Website Visits: <span id='count'>Loading...</span></p>
+    <div class='flex flex-col'>
+      <h1 class='text-xl font-800'>Website Visits:</h1>
+      <a href='https://www.freecounterstat.com' title='website counter'
+        ><img
+          src='https://counter6.optistats.ovh/private/freecounterstat.php?c=atwa79bkwe5ewug6sg1hw9duq19r8ru6'
+          border='0'
+          title='website counter'
+          alt='website counter'
+        /></a
+      >
+      <!-- <p>(If Visit counter does not appear, try disabling Ad blocker)</p> -->
     </div>
   </div>
   <div class='bg-gray-100'>
@@ -179,24 +188,3 @@
     </div>
   </div>
 </footer>
-
-<script>
-  const countElement = document.getElementById('count');
-
-  incrementVisitsCount();
-
-  function incrementVisitsCount() {
-    let visits: number;
-
-    if (!localStorage.getItem('visits')) {
-      localStorage.setItem('visits', '34');
-    } else {
-      visits = +localStorage.getItem('visits')!;
-      const incrementedCount = visits + 21;
-
-      localStorage.setItem('visits', incrementedCount.toString());
-    }
-
-    countElement.innerText = localStorage.getItem('visits') || '0';
-  }
-</script>
