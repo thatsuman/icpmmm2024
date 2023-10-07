@@ -32,3 +32,19 @@ and nearby iron and steel plants.
 
 <!-- - ![KNU](/assets/images/knu1.webp) -->
 <img src="/assets/images/knu1.webp" alt="Kazi Nazrul University" style="width:800px"/>
+
+## Kolkata City
+
+Kolkata, one of the biggest cities in India, is a perpetually ongoing festival of human existence, concurrently
+luxurious, refined, warm, and futuristic. A vibrant 350-year-old metropolis located on India's Eastern
+Coast, the capital of West Bengal thrives on contradictions and imposing spectacles. Kolkata, the City of
+Joy, in every sense, is the artistic, cultural and intellectual capital of the country and Kolkata boasts six
+Nobel Laureates as their place of birth or work. Netaji Subhash Chandra Bose International Airport, about
+15km from the city centre, is well connected with other parts of India and abroad as well. Kolkata's streets
+are vivid, hectic, and yet, brimming with life and creativity. Driven by the indomitable spirit of the self-
+made middle class, the city has created a beautiful juxtaposition of old colonial-era charm with the nascent
+upcoming hipster culture that thrives amongst the city's millennial residents. Kolkata has a very lively
+nightlife and great street food that is famous all across the country. The city is lined with eateries and food
+stalls at every corner, where you can savour traditional Bengali food, or try out local snacks, like, Jhalmuri,
+or Ghugni Chaat. You just cannot miss the omnipresent sweetmeat shops all around. Weather in Kolkata in
+February is soothingly enjoyable, with temperature between 16-29oC and mostly bright sunny days.
