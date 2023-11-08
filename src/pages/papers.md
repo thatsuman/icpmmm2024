@@ -65,7 +65,7 @@ The paper should only be submitted by Email at
 
 - Authors are requested to submit abstracts latest by 30th November 2023. The abstract, not
   exceeding 500 words with maximum five keywords and prepared as per the guidelines, should be
-  submitted through Email at [icpmmm2024@gmail.com](mailto:icpmmm2024@gmail.com). <p>
+  submitted through Email at [icpmmm2024@gmail.com](mailto:icpmmm2024@gmail.com) and CC to [basudrprojjal@gmail.com](mailto:basudrprojjal@gmail.com) <p>
   The abstract should be prepared using
   template provided on the conference website.
 
