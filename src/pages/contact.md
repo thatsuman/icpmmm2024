@@ -10,4 +10,4 @@ title: 'Contact Us'
 - Prof. Projjal Basu
 - Kazi Nazrul University, Asansol-713340, West Bengal, India
 - Mobile: +91 7406409273
-- Email: icpmmm2024@gmail.com / metallurgy.projjal@knu.ac.in
+- Email: icpmmm2024@gmail.com / metallurgy.projjal@knu.ac.in / icpmmm24@gmail.com
