@@ -73,7 +73,7 @@ The paper should only be submitted by Email at
 
 ### Abstract submission deadline
 
-<s>30th October 2023</s> <br> <mark style="background-color:#F4E869;color: black;">30th November 2023</mark>
+<s>30th October 2023</s> <br> <p id="blink_text">30th November 2023</p>
 
 ### Abstract submission Email
 
@@ -115,3 +115,21 @@ The paper should only be submitted by Email at
 | Abstract Submission: 30th November, 2023  | Full Paper Submission: 15th December, 2023 |
 | ----------------------------------------- | ------------------------------------------ |
 | Full Paper Acceptance: 15th January, 2024 | Registration Deadline: 31st January, 2024  |
+
+<style>
+
+#blink_text{
+animation-name:blink;
+width:280px;
+animation-duration:2s;
+animation-timing-function:ease-in;
+animation-iteration-count:Infinite;
+}
+
+@keyframes blink{
+0%{color:red;}
+50%{color:white;}
+100%{color:red;}
+}
+
+</style>

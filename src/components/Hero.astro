@@ -81,10 +81,37 @@
           >Registration
         </button></a
       >
+
+      <div class='flex flex-col space-y-2 justify-center mt-6'>
+        <div class='text-xl'>Abstract Submission Date Extended to:</div>
+        <p id='blink_text'>30th November 2023</p>
+      </div>
     </div>
     <style>
       #hero {
         background-image: url('/assets/images/hero_banner.webp');
+      }
+
+      #blink_text {
+        animation-name: blink;
+        font-size: large;
+        font-weight: bold;
+        width: auto;
+        animation-duration: 2s;
+        animation-timing-function: ease-in;
+        animation-iteration-count: Infinite;
+      }
+
+      @keyframes blink {
+        0% {
+          color: red;
+        }
+        50% {
+          color: white;
+        }
+        100% {
+          color: red;
+        }
       }
     </style>
   </div>
