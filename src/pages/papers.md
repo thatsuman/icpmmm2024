@@ -16,9 +16,9 @@ title: 'Abstracts and Papers'
   verticals, which would appropriately leverage invited & keynote lectures from leading experts in the
   related fields as well as contributory papers presentations. Overall, ICPMMM2024 programme is sure to
   provide the participants an enriching experience. The paper should only be submitted by Email at
-  icpmmm2024@gmail.com. <p>
-  The conference invites contributions on the following themes but not
-  limited to:
+  [icpmmm2024@gmail.com](mailto:icpmmm2024@gmail.com) and CC to [basudrprojjal@gmail.com](mailto:basudrprojjal@gmail.com) <p>
+
+  We invites contributions on the following themes as well as other relevant fields related to Minerals, Metals, and Materials.
 
 ### Broad Theme
 
@@ -59,7 +59,7 @@ Reality"</mark> on 22 February 2024 comprising of three sessions.
 
 The paper should only be submitted by Email at
 
-- icpmmm2024@gmail.com
+- icpmmm2024@gmail.com and CC to basudrprojjal@gmail.com
 
 ## Call for Abstracts
 
@@ -77,7 +77,7 @@ The paper should only be submitted by Email at
 
 ### Abstract submission Email
 
-- icpmmm2024@gmail.com
+- icpmmm2024@gmail.com and CC to basudrprojjal@gmail.com
 
 ## Guidelines for Authors
 
