@@ -73,7 +73,7 @@ The paper should only be submitted by Email at
 
 ### Abstract submission deadline
 
-<mark style="background-color:#F4E869;color: black;">30th November 2023</mark>
+<s>30th October 2023</s> <br> <mark style="background-color:#F4E869;color: black;">30th November 2023</mark>
 
 ### Abstract submission Email
 
