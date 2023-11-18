@@ -3,7 +3,7 @@ layout: '../layouts/Article.astro'
 title: 'Downloads'
 ---
 
-# Downloads
+## Downloads
 
 | Resource            | Link                                                   |
 | ------------------- | ------------------------------------------------------ |
