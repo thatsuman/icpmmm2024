@@ -63,7 +63,7 @@ The paper should only be submitted by Email at
 
 ## Call for Abstracts
 
-- Authors are requested to submit abstracts latest by 30th November 2023. The abstract, not
+- Authors are requested to submit abstracts latest by 23rd December, 2023. The abstract, not
   exceeding 500 words with maximum five keywords and prepared as per the guidelines, should be
   submitted through Email at [icpmmm2024@gmail.com](mailto:icpmmm2024@gmail.com) and CC to [basudrprojjal@gmail.com](mailto:basudrprojjal@gmail.com) <p>
   The abstract should be prepared using
@@ -73,7 +73,7 @@ The paper should only be submitted by Email at
 
 ### Abstract submission deadline
 
-<s>30th October 2023</s> <br> <p id="blink_text">30th November 2023</p>
+<s>30th November 2023</s> <br> <p id="blink_text">23rd December 2023</p>
 
 ### Abstract submission Email
 
@@ -112,9 +112,9 @@ The paper should only be submitted by Email at
 
 ## Key dates
 
-| Abstract Submission: 30th November, 2023  | Full Paper Submission: 15th December, 2023 |
-| ----------------------------------------- | ------------------------------------------ |
-| Full Paper Acceptance: 15th January, 2024 | Registration Deadline: 31st January, 2024  |
+| Abstract Submission: 23rd December, 2023  | Full Paper Submission: 15th January, 2024 |
+| ----------------------------------------- | ----------------------------------------- |
+| Full Paper Acceptance: 22nd January, 2024 | Registration Deadline: 31st January, 2024 |
 
 <style>
 
