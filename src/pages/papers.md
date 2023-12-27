@@ -73,7 +73,9 @@ The paper should only be submitted by Email at
 
 ### Abstract submission deadline
 
-<s>30th November 2023</s> <br> <p id="blink_text">23rd December 2023</p>
+<s>23rd December 2023</s> <br>
+
+<p id="blink_text">15th January 2024</p>
 
 ### Abstract submission Email
 
@@ -112,9 +114,9 @@ The paper should only be submitted by Email at
 
 ## Key dates
 
-| Abstract Submission: 23rd December, 2023  | Full Paper Submission: 15th January, 2024 |
-| ----------------------------------------- | ----------------------------------------- |
-| Full Paper Acceptance: 22nd January, 2024 | Registration Deadline: 31st January, 2024 |
+| Abstract Submission: 15th January, 2024   | Full Paper Submission: 31st March, 2024 |
+| ----------------------------------------- | --------------------------------------- |
+| Registration Deadline: 31st January, 2024 |
 
 <style>
 
