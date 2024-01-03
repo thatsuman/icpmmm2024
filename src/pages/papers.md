@@ -63,7 +63,7 @@ The paper should only be submitted by Email at
 
 ## Call for Abstracts
 
-- Authors are requested to submit abstracts latest by 23rd December, 2023. The abstract, not
+- Authors are requested to submit abstracts latest by 15th January 2024. The abstract, not
   exceeding 500 words with maximum five keywords and prepared as per the guidelines, should be
   submitted through Email at [icpmmm2024@gmail.com](mailto:icpmmm2024@gmail.com) and CC to [basudrprojjal@gmail.com](mailto:basudrprojjal@gmail.com) <p>
   The abstract should be prepared using
