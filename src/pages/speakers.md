@@ -17,21 +17,29 @@ title: 'Keynote Speakers'
 
 - Director, IIT Ropar
 
-### Dr. Anrin Bhattacharyya
-
-- Managing Director, RECYRON, AUSTRIA
-
 ### Mr. Ram Chandra Chakraborty
 
 - Managing Director, PSI Metals (India) Pvt. Ltd.
 
-### Prof. Karabi Das
+### Dr. Anrin Bhattacharyya
 
-- Professor & HOD, Department of Metallurgical & Materials Engineering, IIT Kharagpur
+- Managing Director, RECYRON, AUSTRIA
+
+### Dr. Ashish Bhaduri
+
+- Vice President Operations, Tata BlueScope Steel
+
+### Dr. Saikat Samanta
+
+- AGM / Process & Sales, Newfer, Germany
 
 ### Dr. D. Ravi Kumar
 
 - Professor, Department of Mechanical Engineering, IIT Delhi
+
+### Prof. Indradev Samajdar
+
+- Professor, Dept. of Metallurgical Engineering & Materials Science, IIT Bombay
 
 ### TS. Dr. Teo Pao Ter
 
@@ -40,6 +48,10 @@ title: 'Keynote Speakers'
   Department of Energy, Mineral and
   Materials Technology; Universiti Malaysia
   Kelantan (UMK), MALAYSIA
+
+### Prof. Karabi Das
+
+- Professor & HOD, Department of Metallurgical & Materials Engineering, IIT Kharagpur
 
 ### Dr. Cheong Kuan Yew
 
