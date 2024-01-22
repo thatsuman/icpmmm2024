@@ -3,6 +3,10 @@ layout: '../layouts/Article.astro'
 title: 'Sponsorships'
 ---
 
+## Sponsors
+
+- <img src="/assets/images/Vedam_India_Logo.png" alt="Vedam India Logo" style="height:150;width:150px;"/>
+
 ## Sponsorship Plans
 
 | Type of Sponsorship       | Fees                                                                                     |
