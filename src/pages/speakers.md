@@ -59,7 +59,7 @@ title: 'Keynote Speakers'
   Resources Engineering,
   Universiti Sains Malaysia (USM), MALAYSIA
 
-### Prof. Somnath Basu,
+### Prof. Somnath Basu
 
 - Professor, Dept. of
   Metallurgical Engineering
