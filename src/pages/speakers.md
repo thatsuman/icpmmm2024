@@ -58,3 +58,10 @@ title: 'Keynote Speakers'
 - Professor, School of Materials & Mineral
   Resources Engineering,
   Universiti Sains Malaysia (USM), MALAYSIA
+
+### Prof. Somnath Basu,
+
+- Professor, Dept. of
+  Metallurgical Engineering
+  and Materials Science, IIT
+  Bombay
