@@ -15,7 +15,7 @@ Please follow the steps below.
 
 - #### Note: Save the Transaction ID and Payment receipt. May required for future use.
 
-<!-- ### Registration Deadline:  -->
+### Registration Deadline: 17th March, 2024
 
 ## Fees
 
