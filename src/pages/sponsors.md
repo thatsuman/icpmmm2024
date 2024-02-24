@@ -7,6 +7,12 @@ title: 'Sponsorships'
 
 - <img src="/assets/images/Vedam_India_Logo.png" alt="Vedam India Logo" style="height:150;width:150px;"/>
 
+- <img src="/assets/images/SERB_India_Logo.jpeg" alt="SERB India" style="height:150;width:150px;"/>
+
+- <img src="/assets/images/Biomed_Logo.jpeg" alt="Biomed Logo" style="height:400;width:250px;"/>
+
+- <img src="/assets/images/Duttcon_Logo.jpeg" alt="Duttcon Logo" style="height:400;width:250px;"/>
+
 ## Sponsorship Plans
 
 | Type of Sponsorship       | Fees                                                                                     |
