@@ -75,7 +75,8 @@ The paper should only be submitted by Email at
 
 <s>15th January, 2024</s> <br>
 
-<p id="blink_text">Abstract Submission is Still Open</p>
+<!-- <p id="blink_text">Abstract Submission is Still Open</p> -->
+<p id="blink_text">10th March, 2024</p>
 
 ### Abstract submission Email
 
@@ -115,9 +116,9 @@ The paper should only be submitted by Email at
 
 ## Key dates
 
-| Abstract Submission: Still Open           | Full Paper Submission: 31st March, 2024 |
-| ----------------------------------------- | --------------------------------------- |
-| Registration Deadline: 31st January, 2024 |
+| Abstract Submission: 10th March, 2024   | Full Paper Submission: 31st May, 2024 |
+| --------------------------------------- | ------------------------------------- |
+| Registration Deadline: 17th March, 2024 |
 
 <style>
 
