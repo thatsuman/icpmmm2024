@@ -5,13 +5,17 @@ title: 'Sponsorships'
 
 ## Sponsors
 
-- <img src="/assets/images/Vedam_India_Logo.png" alt="Vedam India Logo" style="height:150;width:150px;"/>
+<div class="flex flex-row justify-center space-y-10 space-x-10">
 
-- <img src="/assets/images/SERB_India_Logo.jpeg" alt="SERB India" style="height:150;width:150px;"/>
+<div> <img src="/assets/images/Vedam_India_Logo.png" alt="Vedam India Logo" style="height:150;width:150px;"/></div>
 
-- <img src="/assets/images/Biomed_Logo.jpeg" alt="Biomed Logo" style="height:400;width:250px;"/>
+<div><img src="/assets/images/SERB_India_Logo.jpeg" alt="SERB India" style="height:150;width:150px;"/></div>
 
-- <img src="/assets/images/Duttcon_Logo.jpeg" alt="Duttcon Logo" style="height:400;width:250px;"/>
+<div><img src="/assets/images/Biomed_Logo.jpeg" alt="Biomed Logo" style="height:80px;width:auto;"/></div>
+
+<div><img src="/assets/images/Duttcon_Logo.jpeg" alt="Duttcon Logo" style="height:80;width:auto;"/></div>
+
+</div>
 
 ## Sponsorship Plans
 
