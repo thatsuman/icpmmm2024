@@ -107,10 +107,11 @@ The paper should only be submitted by Email at
 
 ## Publication Opportunity
 
-- The good quality research papers from the conference, after through peer review, will be published
-  in a <mark style="background-color:#F4E869;color: black;">Springer journal</mark>. The publication of a paper will be subject to the referee's decision through
-  peer review process and submission of copyright agreement and less than 15% plagiarism
-  report.
+- <mark style="background-color:#F4E869;color: black;">All the papers will be published as book chapters in the conference proceeding</mark>. A few high quality
+  papers, after thorough peer review, will be published by SPRINGER in SCOPUS Indexed <mark style="background-color:#F4E869;color: black;"> Journal
+  of the Institution of Engineers (India) : Series D, a Springer journal</mark>. The publication of a paper will
+  be subject to the referee’s decision through peer review process and submission of copyright
+  agreement and less than 15% plagiarism report.
 
 ## Key dates
 
