@@ -24,8 +24,10 @@ title: 'Abstracts and Papers'
 
 #### "Processing of Minerals, Metals and Materials: Beyond Tomorrow"
 
-There will be one dedicated parallel event on <mark style="background-color:#F4E869;color: black;">"Green Steel : Concept to
-Reality"</mark> on 22 February 2024 comprising of three sessions.
+<!-- Special Event Section -->
+
+<!-- There will be one dedicated parallel event on <mark style="background-color:#F4E869;color: black;">"Green Steel : Concept to
+Reality"</mark> on 22 February 2024 comprising of three sessions. -->
 
 ### Other Sub-Themes
 
