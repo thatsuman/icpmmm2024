@@ -47,4 +47,11 @@ upcoming hipster culture that thrives amongst the city's millennial residents. K
 nightlife and great street food that is famous all across the country. The city is lined with eateries and food
 stalls at every corner, where you can savour traditional Bengali food, or try out local snacks, like, Jhalmuri,
 or Ghugni Chaat. You just cannot miss the omnipresent sweetmeat shops all around. Weather in Kolkata in
-February is soothingly enjoyable, with temperature between 16-29oC and mostly bright sunny days.
+March is soothingly enjoyable, with temperature between 22-32oC and mostly bright sunny days.
+
+## Venue
+
+Science City https://sciencecitykolkata.org.in/ is a major landmark in Kolkata. It is a unit of the National
+Council of Science Museums, Govt. of India, working with the objective of growth of science and technology
+and their application in industry, human welfare and environment. It is 6km from the nearest Metro
+Station, 12km from Howrah Railway Station and 15km from the international airport.

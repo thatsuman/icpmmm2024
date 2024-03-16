@@ -7,13 +7,13 @@ title: 'Sponsorships'
 
 <div class="flex flex-row justify-center space-y-10 space-x-10">
 
+<div><img src="/assets/images/SERB_India_Logo.jpeg" alt="Duttcon Logo" style="height:150px;width:auto;"/></div>
+
+<div><img src="/assets/images/Duttcon_Logo_New.jpeg" alt="Duttcon Logo" style="height:150px;width:150px;"/></div>
+
 <div> <img src="/assets/images/Vedam_India_Logo.png" alt="Vedam India Logo" style="height:150;width:150px;"/></div>
 
-<div><img src="/assets/images/SERB_India_Logo.jpeg" alt="SERB India" style="height:150;width:150px;"/></div>
-
 <div><img src="/assets/images/Biomed_Logo.jpeg" alt="Biomed Logo" style="height:80px;width:auto;"/></div>
-
-<div><img src="/assets/images/Duttcon_Logo.jpeg" alt="Duttcon Logo" style="height:80;width:auto;"/></div>
 
 </div>
 
